@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Alisa - AI Chatbot for WordPress
- * Plugin URI: https://yourwebsite.com
+ * Plugin URI: https://github.com/tssaini369/alisa-chatbot
  * Description: A customizable AI chatbot plugin with admin panel training, conversation storage, and licensing.
  * Version: 1.0.0
- * Author: Genesys
- * Author URI: https://yourwebsite.com
+ * Author: TeeJay
+ * Author URI: https://github.com/tssaini369
  * License: Proprietary
  */
 
