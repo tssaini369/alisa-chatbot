@@ -13,11 +13,16 @@ You can also use multiple | within an answer to simulate pauses or sentence brea
 Example:
 
 Hello|Hello! Need assistance with something?
+
 Good morning|Good morning! How can I support you today?
+
 What is your refund policy?|You can request a refund within 7 days of purchase. Please check our full policy on the Refund page.
+
 Do you offer support on weekends?|Our support team is available Monday to Saturday|9 AM to 6 PM.
+
 Is the chatbot customizable?|Absolutely! You can change the bot’s name|personality, and even train it with your own data.
 
+---------------------------------------------------------------------------------------------------------------------------------
 
 📊 Format for .csv Upload
 If you're using a .csv file, simply replace the | with a comma (,):
@@ -25,12 +30,14 @@ If you're using a .csv file, simply replace the | with a comma (,):
 Example (training.csv):
 
 Hello,Hello! Need assistance with something?
-Good morning,Good morning! How can I support you today?
-Do you offer support on weekends?,Our support team is available Monday to Saturday,9 AM to 6 PM.
 
+Good morning,Good morning! How can I support you today?
+
+Do you offer support on weekends?,Our support team is available Monday to Saturday,9 AM to 6 PM.
 
 ⚠️ Note: For CSV files, avoid extra commas inside a single message unless properly wrapped in quotes.
 
+---------------------------------------------------------------------------------------------------------------------------------
 📥 How to Upload
 Go to Train Chatbot section in the plugin settings.
 Choose either manual input or upload a .txt / .csv file (available for licensed users).
