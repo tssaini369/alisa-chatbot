@@ -33,3 +33,14 @@ A customizable AI chatbot plugin with admin panel training, conversation storage
 ## License
 
 Proprietary - All rights reserved
+
+💡 What’s Next?
+We’re working on a paid version that unlocks:
+
+Bulk training via file upload (CSV, TXT)
+
+Branding customization
+
+Multi-language support
+
+More powerful AI features
